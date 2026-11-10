@@ -1,0 +1,5 @@
+homepage: "https://www.crimtan.com"
+documentation: "https://crimtan-docs.atlassian.net/wiki/spaces/TI/pages/18087937/Implementing+Crimtan+Tags+via+Google+Tag+Manager+GTM"
+versions:
+  - sha: bf3a7b9467a56df2be4bd9dc9dc67e8861a7230c
+    changeNotes: Initial release.
